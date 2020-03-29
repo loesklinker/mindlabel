@@ -1,0 +1,124 @@
+
+body {
+background-image: url("../images/background.png");
+background-repeat: repeat;
+background-size: cover;
+}
+
+.bigtitle {
+	font-family: 'arial black';
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 4.5rem;
+	color: white;
+}
+
+.navbar {
+	font-family: 'Arial Black';
+	font-size: 20px;
+	text-transform: uppercase;
+	color: white;
+	background-color: #2500ffff;
+}
+
+.nav-link {
+	color: white;
+	margin-left: 10px;
+}
+
+.nav-link:hover {
+	color: #fc7a68;
+}
+
+.subheading {
+	font-family: 'Arial Black';
+	Text-transform: uppercase;
+	Color: white;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#description {
+	font-size: 20px;
+	
+}
+
+.heading2 {
+	font-family: 'Arial Black';
+	text-transform: uppercase;
+
+	font-size: 30px;
+	color: white;
+	margin-top: 30px;
+	text-align: center;
+	margin-bottom: -1.8rem;
+}
+
+.text-body {
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+
+}
+
+
+.hyperlinks {
+	color: white;
+}
+
+.hyperlinks:hover {
+	color: #fc7a68;
+}
+
+.btn {
+	font-family: 'Arial Black';
+	text-transform: uppercase;
+	align-self: center;
+}
+
+#buttontag {
+	background-color: #2500ffff;
+	border-color: transparent;
+	margin-left: 10rem;
+}
+
+#buttontag2 {
+	background-color: #2500ffff;
+	border-color: transparent;
+	margin-left: 10rem;
+
+}
+
+.explorericon {
+	margin-left: 66px;
+}
+
+#partnericon {
+	margin-left: 26px;
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+
+footer {
+	background-color: #2500ffff;
+	margin-top: 3rem;
+	width: 100%;
+	height: 85px;
+
+}
+
+.footertext {
+	Color: white;
+	font-size: 40px;
+	font-family: 'Arial Black';
+	Text-transform: uppercase;
+	margin-left: 30rem;
+	
+}
+
+.footerimage {
+	margin: 10px;
+	margin-top: -0.7px;
+}
+
+
