@@ -1,4 +1,3 @@
-
 body {
 background-image: url("../images/background.png");
 background-repeat: repeat;
@@ -122,13 +121,29 @@ footer {
 }
 .thee {
 	font-family: arial Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: #2500ffff 
+	color: #2500ffff;
+	text-align: center;
 }.thee1 {
 	font-family: arial Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: #fc7a68 
+	color: #fc7a68;
+		text-align: center;
 }.thee2 {
 	font-family: arial Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: #c9b9eb
+	color: #c9b9eb;
+	text-align: center;
 }
-
-
+.bundletext {
+	font-family: 'Arial Black', 'sans-serif';
+	text-align: center;
+	font: bold;
+}
+.bundletitle {
+	font-family: 'arial black';
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 2.5rem;
+	color: white;
+}
+.backgroundblock {
+	background: white;
+}
