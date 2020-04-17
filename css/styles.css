@@ -25,6 +25,12 @@ background-size: cover;
 	margin-left: 10px;
 }
 
+.video {
+	margin-left: 16.5rem;
+	border: 0;
+	
+}
+
 .nav-link:hover {
 	color: #fc7a68;
 }
@@ -37,6 +43,35 @@ background-size: cover;
 	text-align: center;
 	margin-top: 20px;
 }
+
+.subheading2 {
+	font-family: 'Arial Black';
+	Text-transform: uppercase;
+	Color: white;
+	font-size: 40px;
+	text-align: center;
+	margin-top: -1rem;
+}
+
+.subheading3 {
+	font-family: 'Arial Black';
+	Text-transform: uppercase;
+	Color: white;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: -10px;
+}
+
+.subheading4 {
+	font-family: 'Arial Black';
+	Text-transform: uppercase;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 3rem;
+	margin-bottom: -10px;
+}
+
 
 #description {
 	font-size: 20px;
@@ -60,8 +95,25 @@ background-size: cover;
 
 }
 
+.carousel {
+	height: 28rem;
+}
+
+#exampleInputPassword1 {
+	height: 120px;
+}
+
 
 .hyperlinks {
+	color: white;
+}
+
+.hyperlinks1 {
+	color: #2500ffff;
+
+}
+
+.hyperlinks1:hover {
 	color: white;
 }
 
@@ -153,7 +205,6 @@ body row {
 }
 .backgroundblock {
 	background: white;
-	font-family: 'arial black';
 	color: #fc7a68;
 	text-align: center;
 }
