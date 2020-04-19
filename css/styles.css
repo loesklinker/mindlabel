@@ -226,3 +226,16 @@ body row {
 	color: #2500ffff;
 	text-align: center;
 }
+.backgroundblock4 {
+	background: white;
+	color: #fc7a68;
+	text-align: left;
+}
+.gallery {
+	margin: 1px;
+}
+.text-body {
+	font-family: 'Quicksand', sans-serif;
+	text-align: left;
+
+}
