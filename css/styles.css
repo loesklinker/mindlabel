@@ -159,17 +159,19 @@ footer {
 }
 
 .footertext {
-	Color: white;
-	font-size: 40px;
-	font-family: 'Arial Black';
-	Text-transform: uppercase;
-	margin-left: 30rem;
-	
+    Color: white;
+    font-size: 40px;
+    font-family: 'Arial Black';
+    Text-transform: uppercase;
+    clear: left;
 }
 
 .footerimage {
-	margin: 10px;
-	margin-top: -0.7px;
+    margin: 5px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    clear: both;
+    float: none;
 }
 .thee {
 	font-family: arial Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
