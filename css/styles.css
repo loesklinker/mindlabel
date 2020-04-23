@@ -182,16 +182,14 @@ font-family: 'Archivo Black', sans-serif;
     float: none;
 }
 .thee {
-	font-family: arial Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+font-family: 'Archivo Black', sans-serif;
 	color: #2500ffff;
 	text-align: center;
 }.thee1 {
-	font-family: arial Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: #fc7a68;
+font-family: 'Archivo Black', sans-serif;	color: #fc7a68;
 		text-align: center;
 }.thee2 {
-	font-family: arial Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: #c9b9eb;
+font-family: 'Archivo Black', sans-serif;	color: #c9b9eb;
 	text-align: center;
 }
 .bundletext {
@@ -245,6 +243,15 @@ font-family: 'Archivo Black', sans-serif;
 	color: #fc7a68;
 	text-align: left;
 }
+
+.backgroundblock6 {
+	background: white;
+	margin-top: 20px;
+	font-family: 'Archivo Black', sans-serif;
+	color: #2500ff;
+	text-align: center;
+}
+	
 .gallery {
 	margin: 1px;
 }
@@ -253,3 +260,27 @@ font-family: 'Archivo Black', sans-serif;
 	text-align: left;
 
 }
+
+.smallheader {
+	margin-top: 15px;
+}
+
+.text-body2 {
+	font-family: 'Quicksand', sans-serif;
+	text-align: left;
+	font-size: 20px;
+	
+	
+}
+
+.results {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.results1 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+}
+
