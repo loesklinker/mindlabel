@@ -5,7 +5,7 @@ background-size: cover;
 }
 
 .bigtitle {
-	font-family: 'arial black';
+	font-family: 'Archivo Black', sans-serif;
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 4.5rem;
@@ -13,7 +13,7 @@ background-size: cover;
 }
 
 .navbar {
-	font-family: 'Arial Black';
+	font-family: 'Archivo Black', sans-serif;
 	font-size: 20px;
 	text-transform: uppercase;
 	color: white;
@@ -35,7 +35,7 @@ background-size: cover;
 }
 
 .subheading {
-	font-family: 'Arial Black';
+font-family: 'Archivo Black', sans-serif;
 	Text-transform: uppercase;
 	Color: white;
 	font-size: 40px;
@@ -44,7 +44,7 @@ background-size: cover;
 }
 
 .subheading2 {
-	font-family: 'Arial Black';
+font-family: 'Archivo Black', sans-serif;
 	Text-transform: uppercase;
 	Color: white;
 	font-size: 40px;
@@ -53,7 +53,7 @@ background-size: cover;
 }
 
 .subheading3 {
-	font-family: 'Arial Black';
+font-family: 'Archivo Black', sans-serif;
 	Text-transform: uppercase;
 	Color: white;
 	font-size: 40px;
@@ -63,7 +63,7 @@ background-size: cover;
 }
 
 .subheading4 {
-	font-family: 'Arial Black';
+font-family: 'Archivo Black', sans-serif;
 	Text-transform: uppercase;
 	font-size: 20px;
 	text-align: center;
@@ -71,6 +71,15 @@ background-size: cover;
 	margin-bottom: -10px;
 }
 
+.subheading5 {
+font-family: 'Archivo Black', sans-serif;
+	Text-transform: uppercase;
+	Color: white;
+	font-size: 40px;
+	text-align: center;
+	margin-top: -5rem;
+	
+}
 
 #description {
 	font-size: 20px;
@@ -78,7 +87,7 @@ background-size: cover;
 }
 
 .heading2 {
-	font-family: 'Arial Black';
+font-family: 'Archivo Black', sans-serif;
 	text-transform: uppercase;
 
 	font-size: 30px;
@@ -121,7 +130,7 @@ background-size: cover;
 }
 
 .btn {
-	font-family: 'Arial Black';
+font-family: 'Archivo Black', sans-serif;
 	text-transform: uppercase;
 	align-self: center;
 }
@@ -160,7 +169,8 @@ footer {
 .footertext {
     Color: white;
     font-size: 40px;
-    font-family: 'Arial Black';
+font-family: 'Archivo Black', sans-serif;
+	margin-left: 10px;
     Text-transform: uppercase;
     clear: left;
 }
@@ -186,12 +196,12 @@ footer {
 	text-align: center;
 }
 .bundletext {
-	font-family: 'Arial Black', 'sans-serif';
+font-family: 'Archivo Black', sans-serif;
 	text-align: center;
 	font: bold;
 }
 .bundletitle {
-	font-family: 'arial black';
+font-family: 'Archivo Black', sans-serif;
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 2.5rem;
@@ -206,7 +216,7 @@ body row {
 }
 .backgroundblock {
 	background: white;
-	font-family: 'arial black';
+font-family: 'Archivo Black', sans-serif;
 	color: #fc7a68;
 	text-align: center;
 }
@@ -221,13 +231,13 @@ body row {
 
 .backgroundblock2 {
 	background: white;
-	font-family: 'arial black';
+	font-family: 'Archivo Black', sans-serif;
 	color: #c9b9eb;
 	text-align: center;
 }
 .backgroundblock3 {
 	background: white;
-	font-family: 'arial black';
+	font-family: 'Archivo Black', sans-serif;
 	color: #2500ffff;
 	text-align: center;
 }
